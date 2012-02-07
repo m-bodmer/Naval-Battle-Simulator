@@ -1,0 +1,7 @@
+Design Decisions: 
+
+
+- Decided not to implement the MiniMap due to time constraints
+
+- Decided not to implement drawing Wind effects to the screen (We like a minimal look)
+- World moves around the player, players ship stays in the middle
