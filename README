@@ -10,3 +10,5 @@ How to Download:
 
 Download ClientShipGame.jar and run.
 Make sure you have an updated version of Java in case it does not run.
+Might have to recompile source code using ANT, or any other jar creator if not working.
+Otherwise, open in an IDE such as Eclipse or Netbeans.
