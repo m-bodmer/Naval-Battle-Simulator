@@ -1,0 +1,12 @@
+Created this game with 2 other developers in Java. It requires a server to run. It is a one player game,
+and the objective is to sink all other ships on the playing field.
+
+Controls:
+
+Arrow Keys - Move
+Space Bar - Fire
+
+How to Download:
+
+Download ClientShipGame.jar and run.
+Make sure you have an updated version of Java in case it does not run.
